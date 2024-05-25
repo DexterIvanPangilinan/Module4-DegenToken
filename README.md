@@ -1,4 +1,4 @@
-# Creating Avalanche
+# Building Avalanche
 The tasks for this last module are Mint, Burn, Redeem, Transfer, and check balance of the users or player.
 
 # GETTING STARTED
